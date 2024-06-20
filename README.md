@@ -1,4 +1,4 @@
-<h2 align="center">Prazer! Meu nome é Thaís Schmidt</h2>
+<h2 align="center">Prazer! Meu nome é Thaís!</h2>
 
 ###
 
